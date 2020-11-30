@@ -1,7 +1,7 @@
 <?php
 // ==================================================
 // RIP: Generating "Random ImagePath" in the current folder
-// Author: Jaehyun Song (Waseda University)
+// Author: Jaehyun Song (Doshisha University)
 // Contact: tintstyle@gmail.com | http://www.jaysong.net
 // ==================================================
 
