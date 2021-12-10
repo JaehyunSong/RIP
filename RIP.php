@@ -1,8 +1,8 @@
 <?php
 // ==================================================
 // RIP: Generating "Random ImagePath" in the current folder
-// Author: Jaehyun Song (Doshisha University)
-// Contact: tintstyle@gmail.com | http://www.jaysong.net
+// Author: Jaehyun Song (Kansai University)
+// Contact: song@kansai-u.ac.jp | https://www.jaysong.net
 // ==================================================
 
 $N   = $_GET["N"];   // 抽出する画像の枚数
