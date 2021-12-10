@@ -49,7 +49,8 @@ Qualtricsでランダムに画像を出す場合、2〜3枚の中から1枚を�
 * Web Serviceを選択し、先ほど動作を確認した際のURLを入力
   * たとえば、`http://tintstyle.cafe24.com/Qualtrics/RIP_Script/RIP.php?Ext=jpg&N=3`
 * Test URLをクリック
-* Selectの隣のAllを選択し、Add Embedded Dataをクリック 6 Web Serviceのブロックを実験の質問文が含まれているブロックの上へ移動(必ず!!!)
+* Selectの隣のAllを選択し、Add Embedded Dataをクリック
+* Web Serviceのブロックを実験の質問文が含まれているブロックの上へ移動(必ず!!!)
 
 4. 質問文の作成
 
