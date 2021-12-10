@@ -35,7 +35,7 @@ shuffle($filearray); // 配列をまぜまぜ
 
 // 最初のN個だけ取得し、結果配列へ保存
 for ($j = 1; $j <= $N; $j++) { 
-  $returnarray["Path{$j}"] = "{$CurrentURL}/{$filearray[$j]}";
+  $returnarray["Path{$j}"] = "{$CurrentURL}/{$filearray[$j-1]}";
 }
 
 // json形式にし、結果を返す
